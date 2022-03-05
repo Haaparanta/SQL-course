@@ -1,0 +1,9 @@
+-- Tietokantojen perusteet - Database basics 2021
+-- H1 T10
+-- vesa.haaparanta@tuni.fi
+
+
+eka on primary ke, joten sillä ei voi olla tyhjää arvoa
+toka ei voi olla tyhjä ja maksimi pituus on 6 merkkiä.
+kolmas on kokonaisluku, mutta sieltä löytyy ei kokonaisluku
+neljas on desimaali luku, jossa on yksi desimaali ja  enintään kolme kokonaislukua

@@ -1,0 +1,10 @@
+-- Tietokantojen perusteet - Database basics 2021
+-- H1 T11
+-- vesa.haaparanta@tuni.fi
+
+a = true
+b = false
+c = false
+d = false
+e = true
+f = false

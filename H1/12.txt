@@ -1,0 +1,28 @@
+-- Tietokantojen perusteet - Database basics 2021
+-- H1 T12
+-- vesa.haaparanta@tuni.fi
+
+1. FROM-osa
+▪ Kopioidaan FROM-osassa annettu taulu tulostauluksi.
+
+symbol	name	discoverer
+Am	Americium	Seaborg
+Bk	Berkelium	Seaborg
+Au	Gold	 
+Bi	Bismuth	Agricola
+
+2. WHERE-osa
+▪ Poistetaan edellisen vaiheen tulostaulusta ne rivit, jotka eivät täytä ehtoa.
+
+symbol	name	discoverer
+Am	Americium	Seaborg
+Bk	Berkelium	Seaborg
+
+3. SELECT-osa
+▪ Poistetaan kaikki sarakkeet, jotka eivät esiinny SELECT-listassa.
+
+name
+Americium
+Berkelium
+
+
